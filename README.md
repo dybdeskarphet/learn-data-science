@@ -10,6 +10,7 @@ Welcome to the Learn Data Science repository! This repository is designed to hel
 
 - [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
+- [Resources](#resources)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
 
@@ -30,6 +31,10 @@ To get started with this repository, follow these steps:
 3. Periodically commit and push your changes to update your progress on GitHub.
 
 4. Use the repository's structure and README to keep an overview of your learning journey.
+
+## Resources
+
+- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) ![](https://geps.dev/progress/8?dangerColor=8BC34A&warningColor=8BC34A&successColor=8BC34A)
 
 ## How to Contribute
 
