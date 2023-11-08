@@ -1,12 +1,14 @@
-# Learn Data Science
+# 📊 Learn Data Science
 
 Welcome to the Learn Data Science repository! This repository is designed to help me keep track of my progress as I learn data science with Python.
 
 <!-- TOC ignore:true -->
+
 ## Table of Contents
 
 <!-- TOC -->
 
+- [Table of Contents](#table-of-contents)
 - [Getting Started](#getting-started)
 - [How to Contribute](#how-to-contribute)
 - [License](#license)
