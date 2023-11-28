@@ -34,7 +34,7 @@ To get started with this repository, follow these steps:
 
 ## Resources
 
-- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) ![](https://geps.dev/progress/21?dangerColor=8BC34A&warningColor=8BC34A&successColor=8BC34A)
+- [Python for Data Science and Machine Learning Bootcamp](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) ![](https://geps.dev/progress/23?dangerColor=8BC34A&warningColor=8BC34A&successColor=8BC34A)
 
 ## How to Contribute
 
